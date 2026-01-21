@@ -1,0 +1,67 @@
+name: Build and Deploy Docs (README.md -> Pages)
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Build site (README.md -> site/index.html)
+        run: |
+          set -eux
+          rm -rf site
+          mkdir -p site/assets
+
+          # CSS を配置
+          cp docs/assets/site.css site/assets/site.css
+
+          # README.md を HTML化（ヘッダー/フッター注入 + CSSリンク）
+          pandoc docs/README.md \
+            -f gfm -t html5 \
+            --standalone \
+            --metadata title="Docs" \
+            --css assets/site.css \
+            --include-before-body=docs/templates/header.html \
+            --include-after-body=docs/templates/footer.html \
+            -o site/index.html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
