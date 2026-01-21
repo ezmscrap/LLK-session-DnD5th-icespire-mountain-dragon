@@ -36,9 +36,13 @@ jobs:
           set -eux
           rm -rf site
           mkdir -p site/assets
+          mkdir -p site/images
 
           # CSS を配置
           cp docs/assets/site.css site/assets/site.css
+          
+          # 画像を配置
+          cp -r docs/images/* site/images/
 
           # docs 以下の README.md をすべて検索して HTML 化
           find docs -name "README.md" | while read -r src; do
