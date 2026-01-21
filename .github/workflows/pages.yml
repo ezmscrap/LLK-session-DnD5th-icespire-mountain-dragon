@@ -40,15 +40,25 @@ jobs:
           # CSS を配置
           cp docs/assets/site.css site/assets/site.css
 
-          # README.md を HTML化（ヘッダー/フッター注入 + CSSリンク）
-          pandoc docs/README.md \
-            -f gfm -t html5 \
-            --standalone \
-            --metadata title="Docs" \
-            --css assets/site.css \
-            --include-before-body=docs/templates/header.html \
-            --include-after-body=docs/templates/footer.html \
-            -o site/index.html
+          # docs 以下の README.md をすべて検索して HTML 化
+          find docs -name "README.md" | while read -r src; do
+            # 相対パスとディレクトリ名を取得
+            rel="${src#docs/}"
+            dname=$(dirname "$rel")
+            mkdir -p "site/$dname"
+
+            # CSS への相対パスを計算
+            css_rel=$(realpath -m --relative-to="site/$dname" "site/assets/site.css")
+
+            pandoc "$src" \
+              -f gfm -t html5 \
+              --standalone \
+              --metadata title="Docs" \
+              --css "$css_rel" \
+              --include-before-body=docs/templates/header.html \
+              --include-after-body=docs/templates/footer.html \
+              -o "site/$dname/index.html"
+          done
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
