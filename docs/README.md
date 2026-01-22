@@ -9,6 +9,7 @@
 - 2026/01/12(月) 20:00-22:00 相談日4 EINさん, 銀健さん, Lostさん
 - 2026/01/19(月) 22:00 キャラクタシート提出期限
 - 2026/01/22(木) 種族とキャラクタの背景の決定の目標日
+- 2026/01/23(金) 22:00 キャラクタの背景と設定の提出期限
 - 2026/01/25(日) 13:00-18:00 セッション1回目
 - 2026/01/31(土) 13:00-18:00 セッション2回目
 - 以降、月に1～2回のペースでセッションを開催予定、全8～12回くらいを予定
@@ -27,11 +28,12 @@
 
 ### ◆ LLKツール
 
-- [D&D5ePC作成アプリ](https://llkdn.com/app/trpg/dnd/pc/)
-- [D&D5eLv管理アプリ](https://llkdn.com/app/trpg/dnd/pc/levelup)
-- D&D5e冒険支援アプリ
-- [D&De5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
-- [D&De5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
+- [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
+- [DnD5ePC作成アプリ](https://llkdn.com/app/trpg/dnd/pc/)
+- [DnD5eLv管理アプリ](https://llkdn.com/app/trpg/dnd/pc/levelup)
+- DnD5e冒険支援アプリ
+- [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
+- [DnDe5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
 - 野良騎士仮想テーブルトップ(LLTVT)
 
 ### ◆ [D&D日本語公式ツール](https://dnd-jp.com/tools/)
@@ -44,6 +46,7 @@
     
 
 ■これまでの記事 
+- [2026年01月 LLK例会 1/22時点の DnD5eキャラクター閲覧アプリ と 依頼 について](./2026-01-22/)
 - [2026年01月 LLK例会 1/21時点のD&D5eレベルアップ管理アプリについて](./2026-01-21/)
 - [2026年01月 LLK例会 1/20時点のキャラクターイラスト管理アプリについて](./2026-01-20/)
 - [2026年01月 LLK例会 1/19時点のキャラクターイラスト作成アプリについて](./2026-01-19/)
