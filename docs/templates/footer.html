@@ -4,3 +4,23 @@
     <small>ezmscrap</small>
   </div>
 </footer>
+<script>
+  // 外部リンクだけを新しいタブで開く
+  document.querySelectorAll('a[href]').forEach(a => {
+    const href = a.getAttribute('href');
+    if (!href) return;
+
+    // ページ内アンカーや相対パスは対象外
+    if (href.startsWith('#') || href.startsWith('./') || href.startsWith('../') || href.startsWith('/')) return;
+    if (href.startsWith('mailto:') || href.startsWith('tel:')) return;
+
+    // http/https の外部リンクだけ
+    if (href.startsWith('http://') || href.startsWith('https://')) {
+      a.setAttribute('target', '_blank');
+      const rel = (a.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
+      ['noopener', 'noreferrer'].forEach(x => { if (!rel.includes(x)) rel.push(x); });
+      a.setAttribute('rel', rel.join(' '));
+    }
+  });
+</script>
+
