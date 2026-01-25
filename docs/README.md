@@ -32,9 +32,13 @@
 - [DnD5ePC作成アプリ](https://llkdn.com/app/trpg/dnd/pc/)
 - [DnD5eLv管理アプリ](https://llkdn.com/app/trpg/dnd/pc/levelup)
 - DnD5e冒険支援アプリ
+- [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
 - [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
 - [DnDe5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
 - 野良騎士仮想テーブルトップ(LLTVT)
+
+### ◆[ココフォリア](https://ccfolia.com/)
+- [LLK-session-DnD5th-icespire-mountain-dragon](https://ccfolia.com/rooms/Uly6S0Acp)
 
 ### ◆ [D&D日本語公式ツール](https://dnd-jp.com/tools/)
 - [D&D プレイヤー用ベーシック・ルール日本語版 PDF版](https://dnd-jp.com/wp-content/uploads/2024/06/DnD-PlayerBasicRules-wotc2024-1.pdf)
