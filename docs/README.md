@@ -26,6 +26,14 @@
 
 ## ■ 関連リンク
 
+### ◆ LLK例会 開催場所 について
+- 音声: [Discord LLKサーバ TRPG部](https://discord.com/channels/837718586868236378/837719282024185926)
+- ゲームボード: [ココフォリア-LLK-session-DnD5th-icespire-mountain-dragon](https://ccfolia.com/rooms/Uly6S0Acp)
+
+### ◆ プレイログ(リプレイビュー)
+- [2026年1月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
+- [2026年1月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
+
 ### ◆ LLKツール
 
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
@@ -35,7 +43,8 @@
 - [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
 - [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
 - [DnDe5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
-- 野良騎士仮想テーブルトップ(LLTVT)
+- [野良騎士仮想テーブルトップ(LLTVT)](https://llkdn.com/app/trpg/vtt/)
+- [ログ整形ツール(リプレイビュー作成)](https://llkdn.com/app/create-html/)
 
 ### ◆[ココフォリア](https://ccfolia.com/)
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://ccfolia.com/rooms/Uly6S0Acp)
@@ -50,6 +59,8 @@
     
 
 ■これまでの記事 
+- [2026年01月 LLK例会 1/25の プレイログ について](./2026-01-27/)
+- [22026年01月 LLK例会 1/25の 例会開催場所 について](./2026-01-25/)
 - [2026年01月 LLK例会 1/22時点の DnD5eキャラクター閲覧アプリ と 依頼 について](./2026-01-22/)
 - [2026年01月 LLK例会 1/21時点のD&D5eレベルアップ管理アプリについて](./2026-01-21/)
 - [2026年01月 LLK例会 1/20時点のキャラクターイラスト管理アプリについて](./2026-01-20/)
