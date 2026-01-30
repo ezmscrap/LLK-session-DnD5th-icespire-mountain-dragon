@@ -11,7 +11,7 @@
 - 2026/01/22(木) 種族とキャラクタの背景の決定の目標日
 - 2026/01/23(金) 22:00 キャラクタの背景と設定の提出期限
 - 2026/01/25(日) 13:00-18:00 セッション1回目
-- 2026/01/31(土) 13:00-18:00 セッション2回目
+- 2026/01/31(土) 13:00-18:00 セッション1.5回目 ハクスラ体験
 - 以降、月に1～2回のペースでセッションを開催予定、全8～12回くらいを予定
 
 ## ■参加者 / クラス
@@ -39,7 +39,7 @@
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
 - [DnD5ePC作成アプリ](https://llkdn.com/app/trpg/dnd/pc/)
 - [DnD5eLv管理アプリ](https://llkdn.com/app/trpg/dnd/pc/levelup)
-- DnD5e冒険支援アプリ
+- [DnD5e冒険支援アプリ](https://llkdn.com/app/trpg/dnd/pc/playing/)
 - [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
 - [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
 - [DnDe5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
@@ -56,7 +56,9 @@
 
 ### ◆ [フィフスエディションRPG サポートページ](https://hj-trpg.com/news/detail.html?id=1439)
 - [5e RPGコアルールブック PDF版](https://wit-awscms-witweb.s3-ap-northeast-1.amazonaws.com/hjcardgamer/5eRPG_Core_20240423.pdf) 
-    
+
+### ◆ この記事のリポジトリ
+- [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
 - [2026年01月 LLK例会 1/25の プレイログ について](./2026-01-27/)
