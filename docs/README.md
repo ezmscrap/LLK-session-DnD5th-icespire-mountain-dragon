@@ -12,6 +12,8 @@
 - 2026/01/23(金) 22:00 キャラクタの背景と設定の提出期限
 - 2026/01/25(日) 13:00-18:00 セッション1回目
 - 2026/01/31(土) 13:00-18:00 セッション1.5回目 ハクスラ体験
+- 2026/02/05(木) 21:30-22:30 相談日5 草霞さん
+- 2026/02/11(水) 13:00-18:00 セッション2回目
 - 以降、月に1～2回のペースでセッションを開催予定、全8～12回くらいを予定
 
 ## ■参加者 / クラス
@@ -33,6 +35,7 @@
 ### ◆ プレイログ(リプレイビュー)
 - [2026年1月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
 - [2026年1月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
+- [2026年1月31日 シナリオ「サヴラスの社」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260131-session03.html)
 
 ### ◆ LLKツール
 
@@ -61,6 +64,7 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
+- [2026年02月 LLK例会 1/31の プレイログ について](./2026-02-01/)
 - [2026年01月 LLK例会 1/31のハクスラ体験会 と D&D5eレベルアップ管理アプリ、プレイ支援アプリ について](./2026-01-30/)
 - [2026年01月 LLK例会 1/25の プレイログ について](./2026-01-27/)
 - [2026年01月 LLK例会 1/25の 例会開催場所 について](./2026-01-25/)
