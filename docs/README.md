@@ -37,15 +37,19 @@
 - [2026年1月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
 - [2026年1月31日 シナリオ「サヴラスの社」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260131-session03.html)
 
-### ◆ LLKツール
-
+### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
 - [DnD5ePC作成アプリ](https://llkdn.com/app/trpg/dnd/pc/)
 - [DnD5eLv管理アプリ](https://llkdn.com/app/trpg/dnd/pc/levelup)
 - [DnD5e冒険支援アプリ](https://llkdn.com/app/trpg/dnd/pc/playing/)
-- [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
+
+### ◆ LLKツール/DnDe5の画像での支援ツール
 - [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
 - [DnDe5肖像画管理アプリ](https://llkdn.com/app/create-img/dnd/viewer/)
+- [DnD5eユニット画像一覧](https://llkdn.com/app/create-img/dnd/viewer/units/)
+
+### ◆ LLKツール/その他ツール
+- [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
 - [野良騎士仮想テーブルトップ(LLTVT)](https://llkdn.com/app/trpg/vtt/)
 - [ログ整形ツール(リプレイビュー作成)](https://llkdn.com/app/create-html/)
 
@@ -58,6 +62,7 @@
 
 
 ### ◆ [フィフスエディションRPG サポートページ](https://hj-trpg.com/news/detail.html?id=1439)
+似て非なるそっくりさんなので参考までに
 - [5e RPGコアルールブック PDF版](https://wit-awscms-witweb.s3-ap-northeast-1.amazonaws.com/hjcardgamer/5eRPG_Core_20240423.pdf) 
 
 ### ◆ この記事のリポジトリ
