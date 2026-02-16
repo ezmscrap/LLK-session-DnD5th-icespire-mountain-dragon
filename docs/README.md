@@ -57,7 +57,8 @@
 
 ### ◆ LLKツール/その他ツール
 - [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
-- [野良騎士仮想テーブルトップ(LLTVT)](https://llkdn.com/app/trpg/vtt/)
+- [野良騎士仮想テーブルトップ(LLKVTT)](https://llkdn.com/app/trpg/vtt/)
+- [VTT地図画像作成アプリ](https://llkdn.com/app/create-img/vtt/map/)
 - [ログ整形ツール(リプレイビュー作成)](https://llkdn.com/app/create-html/)
 
 ### ◆[ココフォリア](https://ccfolia.com/)
