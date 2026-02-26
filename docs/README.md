@@ -59,8 +59,9 @@
 
 ### ◆ LLKツール/その他ツール
 - [DnD5eNPC作成アプリ](https://llkdn.com/app/trpg/dnd/npc/)
-- [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
+- [話者ID設定アプリ](https://llkdn.com/app/create-sound/speaker-id/)
 - [VTT地図画像作成アプリ](https://llkdn.com/app/create-img/vtt/map/)
+- [DnD5e設定支援アプリ](https://llkdn.com/app/create-sound/dnd/pc/)
 - [DnD5eユニット画像一覧](https://llkdn.com/app/create-img/dnd/viewer/units/)
 - [ログ整形ツール(リプレイビュー作成)](https://llkdn.com/app/create-html/)
 
