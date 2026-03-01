@@ -36,7 +36,7 @@
 
 ### ◆ LLK例会 開催場所 について
 - 音声: [Discord LLKサーバ TRPG部](https://discord.com/channels/837718586868236378/837719282024185926)
-- ゲームボード: [ココフォリア-LLK-session-DnD5th-icespire-mountain-dragon](https://ccfolia.com/rooms/Uly6S0Acp)
+- ゲームボード: [LLKVTT-アイススパイア山の竜](https://llkdn.com/app/trpg/vtt/?room=48f91291-3b9e-447b-9bb3-321e59b7d352)
 
 ### ◆ プレイログ(リプレイビュー)
 - [2026年1月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
