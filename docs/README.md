@@ -46,10 +46,11 @@
 - ゲームボード: [LLKVTT-アイススパイア山の竜](https://llkdn.com/app/trpg/vtt/?room=48f91291-3b9e-447b-9bb3-321e59b7d352)
 
 ### ◆ プレイログ(リプレイビュー)
-- [2026年1月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
-- [2026年1月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
-- [2026年1月31日 シナリオ「サヴラスの社」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260131-session03.html)
-- [2026年2月11日 シナリオ「嵐の塔」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260211-session04.html)
+- [2026年01月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
+- [2026年01月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
+- [2026年01月31日 シナリオ「サヴラスの社」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260131-session03.html)
+- [2026年02月11日 シナリオ「嵐の塔」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260211-session04.html)
+- [2026年03月01日 シナリオ「山裾金鉱」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260301-session05.html)
 
 ### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
