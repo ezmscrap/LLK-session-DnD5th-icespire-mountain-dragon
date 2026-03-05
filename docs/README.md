@@ -61,7 +61,8 @@
 - [DnD5e冒険支援アプリ](https://llkdn.com/app/trpg/dnd/pc/playing/)
 
 ### ◆ LLKツール/VTT系ツール
-- [野良騎士仮想テーブルトップ(LLKVTT)](https://llkdn.com/app/trpg/vtt/)
+- [野良騎士仮想テーブルトップ(LLKVTT/L-VTT)](https://llkdn.com/app/trpg/vtt/)
+- [テーブルトップログマネージャー](https://llkdn.com/app/trpg/vtt-chat)
 
 ### ◆ LLKツール/DnDe5の画像での支援ツール
 - [DnDe5肖像画作成アプリ](https://llkdn.com/app/create-img/dnd/pc/)
