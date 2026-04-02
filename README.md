@@ -4,4 +4,4 @@
     - https://ezmscrap.github.io/LLK-session-DnD5th-icespire-mountain-dragon/ 
 
 - このリポジトリへのリンク
-    - https://ezmscrap.github.io/LLK-session-DnD5th-icespire-mountain-dragon/ 
+    - https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon/
