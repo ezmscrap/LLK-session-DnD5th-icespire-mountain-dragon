@@ -54,6 +54,7 @@
 - [2026年02月11日 シナリオ「嵐の塔」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260211-session04.html)
 - [2026年03月01日 シナリオ「山裾金鉱」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260301-session05.html)
 - [2026年03月08日 シナリオ「アックスホルム」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260308-session06.html)
+- [2026年04月12日 シナリオ「竜の塚」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260412-session07.html)
 
 ### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
