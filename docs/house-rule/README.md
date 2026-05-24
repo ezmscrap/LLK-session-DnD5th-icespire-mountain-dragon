@@ -3,6 +3,7 @@
 ## ■ 完全オリジナル
 - [魔法のアイテムを購入する](./purchase-magic-items/)
 - [スクロールの扱い](./use-a-spell-scroll/)
+- [LLK式最低保証HP](./minimum-guaranteed-hp/)
 
 ## ■ 使用する選択ルール
 - 特技: PCの差別化のため
