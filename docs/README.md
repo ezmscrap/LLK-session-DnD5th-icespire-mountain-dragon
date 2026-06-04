@@ -19,6 +19,7 @@
 - [魔法のアイテムを購入する](./house-rule/purchase-magic-items/)
 - [スクロールの扱い](./house-rule/use-a-spell-scroll/)
 - [LLK式最低保証HP](./house-rule/minimum-guaranteed-hp/)
+- [高レベルスタート時の初期装備](./house-rule/inventory-at-high-level/)
 
 ### ◆ 使用する選択ルール
 - 特技
