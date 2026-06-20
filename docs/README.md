@@ -9,7 +9,7 @@
 - 2026/06/10(水) 21:00-22:00 事前処理会
 
 ### ◆ 第1.5部 (Lv4-5)
-- 2026/06/14(日) 13:00-18:00 第二PT シナリオ1回目 (予定)
+- 2026/06/14(日) 13:00-18:00 第二PT シナリオ1回目
 - 2026/06/21(日) 13:00-18:00 第二PT シナリオ2回目 (予定)
 - 2026/07/05(日) 13:00-18:00 第二PT シナリオ3回目 (予定)
 
@@ -20,6 +20,8 @@
 - [スクロールの扱い](./house-rule/use-a-spell-scroll/)
 - [LLK式最低保証HP](./house-rule/minimum-guaranteed-hp/)
 - [高レベルスタート時の初期装備](./house-rule/inventory-at-high-level/)
+- [初期インスピレーション](./house-rule/initial-inspiration/)
+- [インスピレーションによる振り直し](./house-rule/reroll-using-inspiration/)
 
 ### ◆ 使用する選択ルール
 - 特技
@@ -47,7 +49,7 @@
 - ゲームボード: [LLKVTT-アイススパイア山の竜](https://llkdn.com/app/trpg/vtt/?room=48f91291-3b9e-447b-9bb3-321e59b7d352)
 - ゲームボード: [LLKVTT-砕けたオベリスク](https://llkdn.com/app/trpg/vtt/?room=f70ad00c-0079-4dfb-b623-6751719907c8)
 
-### ◆ プレイログ(リプレイビュー)
+### ◆ プレイログ(リプレイビュー) キャンペーン 「アイススパイア山の竜」
 - [2026年01月25日 シナリオ「怒りの丘」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session01.html)
 - [2026年01月25日 シナリオ「ノーメンガード」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260125-session02.html)
 - [2026年01月31日 シナリオ「サヴラスの社」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260131-session03.html)
@@ -57,6 +59,9 @@
 - [2026年04月12日 シナリオ「竜の塚」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260412-session07.html)
 - [2026年04月19日 シナリオ「雷鳴の環状列石」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260419-session08.html)
 - [2026年05月10日 シナリオ「アイススパイア砦」](https://llkdn.com/trpg/dnd/replay/icespire-mountain-dragon/20260510-session09.html)
+
+### ◆ プレイログ(リプレイビュー) キャンペーン 「砕けたオベリスク」
+- [2026年06月14日 シナリオ「タリバーの塔」](https://llkdn.com/trpg/dnd/replay/shattered-obelisk/20260614-session01.html)
 
 ### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
@@ -97,9 +102,11 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
-- [2026年05月 LLK例会 6/8時点における 第2パーティーについて](./2026-06-08/)
-- [2026年05月 LLK例会 6/6時点における EINさん、バーバリアンのサブクラスについて大いに語るについて](./2026-06-06/)
-- [2026年05月 LLK例会 6/3時点における 第2パーティーのPCの初期所持品・所持金について](./2026-06-03/)
+- [2026年06月 LLK例会 6/17時点における実装予定機能などについて](./2026-06-17/)
+- [2026年05月 LLK例会 6/17の プレイログ について](./2026-06-14/)
+- [2026年06月 LLK例会 6/8時点における 第2パーティーについて](./2026-06-08/)
+- [2026年06月 LLK例会 6/6時点における EINさん、バーバリアンのサブクラスについて大いに語るについて](./2026-06-06/)
+- [2026年06月 LLK例会 6/3時点における 第2パーティーのPCの初期所持品・所持金について](./2026-06-03/)
 - [2026年05月 LLK例会 5/31時点における 第2パーティー事前調整について](./2026-05-31/)
 - [2026年05月 LLK例会 5/22時点におけるD&D 懸案に対する意見集約について](./2026-05-22/)
 - [2026年05月 LLK例会 5/18時点におけるD&D 懸案課題について](./2026-05-18/)

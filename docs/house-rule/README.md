@@ -8,6 +8,8 @@
 | [スクロールの扱い](./use-a-spell-scroll/) |DMから見て、標準ルールでのスクロールの価値が低すぎたため|
 | [LLK式最低保証HP](./minimum-guaranteed-hp/)|レベルアップ時のダイスを振る喜びと最低保証のバランスを取るため|
 | [高レベルスタート時の初期所持品・所持金](./inventory-at-high-level/)|冒険を最初から派手にするため|
+|[初期インスピレーション](./initial-inspiration)|配り忘れ防止のため|
+|[インスピレーションによる振り直し](./reroll-using-inspiration)|使い忘れ救済のため|
 
 ## ■ 使用する選択ルール
 
