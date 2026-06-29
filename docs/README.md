@@ -62,6 +62,7 @@
 
 ### ◆ プレイログ(リプレイビュー) キャンペーン 「砕けたオベリスク」
 - [2026年06月14日 シナリオ「タリバーの塔」](https://llkdn.com/trpg/dnd/replay/shattered-obelisk/20260614-session01.html)
+- [2026年06月21日 シナリオ「ギベットの地下交差路」](https://llkdn.com/trpg/dnd/replay/shattered-obelisk/20260621-session02.html)
 
 ### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
@@ -102,8 +103,10 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
+- [2026年06月 LLK例会 6/29時点における実装予定機能などについて](./2026-06-29/)
+- [2026年05月 LLK例会 6/21の プレイログ について](./2026-06-21/)
 - [2026年06月 LLK例会 6/17時点における実装予定機能などについて](./2026-06-17/)
-- [2026年05月 LLK例会 6/17の プレイログ について](./2026-06-14/)
+- [2026年05月 LLK例会 6/14の プレイログ について](./2026-06-14/)
 - [2026年06月 LLK例会 6/8時点における 第2パーティーについて](./2026-06-08/)
 - [2026年06月 LLK例会 6/6時点における EINさん、バーバリアンのサブクラスについて大いに語るについて](./2026-06-06/)
 - [2026年06月 LLK例会 6/3時点における 第2パーティーのPCの初期所持品・所持金について](./2026-06-03/)
