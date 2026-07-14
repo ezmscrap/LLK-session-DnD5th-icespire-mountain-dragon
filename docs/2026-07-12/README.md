@@ -15,7 +15,7 @@ NPCは、[NPC作成アプリ](https://llkdn.com/app/trpg/dnd/npc/)を用いて�
 #### ● 新規作成ボタン
 まず、新規作成ボタンを押下します。
 
-<img src="./image.png" width="384">
+<img src="../images/2026-07-12-00.png" width="384">
 
 つぎに、表示されたモーダルウィンドウで名前を設定します。
 
