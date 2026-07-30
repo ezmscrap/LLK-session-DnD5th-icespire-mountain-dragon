@@ -113,6 +113,7 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
+- [2026年07月 LLK例会 7/29の ハズ・ヨラムのポーションショップについて](./2026-07-29/)
 - [2026年07月 LLK例会 7/28の ガリオ・エリブロのマジックショップについて](./2026-07-28/)
 - [2026年07月 LLK例会 7/26の プレイログ について](./2026-07-26/)
 - [2026年07月 LLK例会 7/12の プレイヤーが使うNPCについて](./2026-07-12/)
