@@ -1,0 +1,60 @@
+{
+  "kind": "dnd5e_npc",
+  "schema_version": 1,
+  "name": "ウォーホース",
+  "nickname": "",
+  "memo": "",
+  "abilities": {
+    "str": 18,
+    "dex": 12,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 7
+  },
+  "ability_modifiers": {
+    "str": 4,
+    "dex": 1,
+    "con": 1,
+    "int": -4,
+    "wis": 1,
+    "cha": -2
+  },
+  "saves": {
+    "str": 0,
+    "dex": 0,
+    "con": 0,
+    "int": 0,
+    "wis": 0,
+    "cha": 0
+  },
+  "combat": {
+    "ac": 11,
+    "hp": 19,
+    "maxHp": 19,
+    "speed": 18,
+    "attacks": "AT+6>={AC} [weapon:ひずめ] ひずめ 命中\n2d6+4 [weapon:ひずめ] ひずめ ダメージ [殴打]\n\n蹂躙突撃: 馬がクリーチャーに向かって少なくとも6m直進し、同じターンに蹄で攻撃した場合、対象は難易度14の筋力セービングスローに成功しなければ伏せ状態になる。対象が伏せ状態になった場合、馬はボーナスアクションとして蹄で再度攻撃することができる。"
+  },
+  "notes": "",
+  "image_prompt": "",
+  "prompt_history": [],
+  "portrait": {
+    "sourceType": "minio",
+    "crop": {
+      "x": 73,
+      "y": 36,
+      "width": 988,
+      "height": 1318,
+      "imageWidth": 1086,
+      "imageHeight": 1448
+    },
+    "unitCrop": {
+      "x": 49,
+      "y": 41,
+      "size": 463,
+      "imageWidth": 1086,
+      "imageHeight": 1448
+    },
+    "sourceKey": "portraits/uploads/343699f0-0483-4e51-b08e-d5512c4ad554/c8412c1e-2ca5-4e87-9212-f33069fd6974.jpg"
+  }
+}
