@@ -72,6 +72,7 @@
 
 ### ◆ プレイログ(リプレイビュー) キャンペーン 「ストームロードの怒り」
 - [2026年07月26日 シナリオ「死と嵐の脈動」](https://llkdn.com/trpg/dnd/replay/storm-lord-s-wrath/20260726-session01.html)
+- [2026年07月26日 シナリオ「イニアルヴと二つの塔」](https://llkdn.com/trpg/dnd/replay/storm-lord-s-wrath/20260830-session02.html)
 
 ### ◆ LLKツール/DnD5eのPC管理系ツール
 - [DnD5ePC閲覧アプリ](https://llkdn.com/app/trpg/dnd/pc/viewer/)
@@ -112,6 +113,7 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
+- [2026年08月 LLK例会 8/30の プレイログ について](./2026-08-30/)
 - [2026年08月 LLK例会 8/7時点の日程 について](./2026-08-07/)
 - [2026年07月 LLK例会 7/30の NPCデータの 読み込み について](./2026-07-30/)
 - [2026年07月 LLK例会 7/29の ハズ・ヨラムのポーションショップについて](./2026-07-29/)
