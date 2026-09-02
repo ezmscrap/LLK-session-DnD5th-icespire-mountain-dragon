@@ -113,6 +113,7 @@
 - [LLK-session-DnD5th-icespire-mountain-dragon](https://github.com/ezmscrap/LLK-session-DnD5th-icespire-mountain-dragon)
 
 ■これまでの記事 
+- [2026年09月 LLK例会 9/2 の 第1パーティーのマジックアイテム事情 について](./2026-09-02/)
 - [2026年08月 LLK例会 8/30の プレイログ について](./2026-08-30/)
 - [2026年08月 LLK例会 8/7時点の日程 について](./2026-08-07/)
 - [2026年07月 LLK例会 7/30の NPCデータの 読み込み について](./2026-07-30/)
